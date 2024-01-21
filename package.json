@@ -1,0 +1,15 @@
+{
+  "name": "naokuo-blog-static",
+  "version": "1.0.0",
+  "description": "Naokuo Blog 静态资源",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Naokuo",
+    "Blog"
+  ],
+  "author": "Naokuo",
+  "license": "ISC"
+}
