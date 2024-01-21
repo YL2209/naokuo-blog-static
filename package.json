@@ -1,6 +1,6 @@
 {
   "name": "naokuo-blog-static",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Naokuo Blog 静态资源",
   "main": "index.js",
   "scripts": {
